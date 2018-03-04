@@ -90,3 +90,11 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+button {
+	font-family: Raleway, sans-serif;
+	background-color: slategrey;
+	text-align: center;
+	float: center;
+	margin: 10px;
+	padding: 5px;
+}
